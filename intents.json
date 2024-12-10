@@ -1,0 +1,154 @@
+[
+    {
+        "tag": "greeting",
+        "patterns": [
+            "Hi",
+            "Hello",
+            "Hey",
+            "Good morning",
+            "Good evening",
+            "How are you?",
+            "What's up?",
+            "How's it going?"
+        ],
+        "responses": [
+            "Hello! How can I assist you with your health today?",
+            "Hi there! How can I help with your health and wellness?",
+            "Good day! What health-related information can I provide?",
+            "Hey! How’s everything going with your well-being?",
+            "Hello! What brings you here today regarding your health?"
+        ]
+    },
+    {
+        "tag": "goodbye",
+        "patterns": [
+            "Bye",
+            "Goodbye",
+            "See you later",
+            "Take care",
+            "Catch you later",
+            "See you soon"
+        ],
+        "responses": [
+            "Goodbye! Stay healthy and take care!",
+            "Take care! See you later.",
+            "See you soon! Stay safe and healthy.",
+            "Goodbye! Don't hesitate to reach out for any health advice!"
+        ]
+    },
+    {
+        "tag": "thanks",
+        "patterns": [
+            "Thanks",
+            "Thank you",
+            "Thanks a lot",
+            "I appreciate it",
+            "You're the best",
+            "Thanks for your help"
+        ],
+        "responses": [
+            "You're welcome! Stay healthy!",
+            "Glad I could help! Take care of yourself.",
+            "Anytime! I'm here to assist you with your health.",
+            "Happy to help! Let me know if you need anything else."
+        ]
+    },
+    {
+        "tag": "about",
+        "patterns": [
+            "What is your purpose?",
+            "Who are you?",
+            "Tell me about you",
+            "What can you do?",
+            "What do you help with?"
+        ],
+        "responses": [
+            "I am a health chatbot here to assist you with general health advice, fitness tips, and wellness guidance.",
+            "I help provide health tips, track fitness goals, suggest exercises, and offer general wellness support.",
+            "I’m here to offer personalized health advice, assist with your fitness journey, and guide you toward a healthier lifestyle."
+        ]
+    },
+    {
+        "tag": "exercise_tips",
+        "patterns": [
+            "Can you suggest a good workout?",
+            "What are some exercises I can do at home?",
+            "Give me some fitness tips",
+            "How do I get in better shape?"
+        ],
+        "responses": [
+            "Try bodyweight exercises like squats, lunges, and push-ups. You can also try yoga or pilates for flexibility and strength.",
+            "If you prefer a quick workout, HIIT (High-Intensity Interval Training) is great for burning calories fast.",
+            "Remember to stay consistent! A mix of cardio, strength training, and flexibility exercises will keep you in great shape."
+        ]
+    },
+    {
+        "tag": "nutrition_advice",
+        "patterns": [
+            "What should I eat for a healthy diet?",
+            "Can you give me some nutrition tips?",
+            "What are some healthy foods to eat?",
+            "Give me a meal plan for a healthy lifestyle"
+        ],
+        "responses": [
+            "Try to include a variety of fruits, vegetables, lean proteins, and whole grains in your diet.",
+            "Eat balanced meals with a good mix of protein, carbs, and healthy fats. Don’t forget to stay hydrated!",
+            "A healthy diet includes nutrient-dense foods such as leafy greens, fruits, nuts, and healthy fats like avocado and olive oil."
+        ]
+    },
+    {
+        "tag": "mental_health",
+        "patterns": [
+            "How can I manage stress?",
+            "What are some mental health tips?",
+            "Can you give me advice on mental well-being?",
+            "How do I stay positive?"
+        ],
+        "responses": [
+            "Practice mindfulness or deep breathing exercises to reduce stress.",
+            "Regular exercise, proper sleep, and a positive mindset can improve your mental health.",
+            "Don’t hesitate to talk to a professional if you’re feeling overwhelmed. Self-care is key to staying positive!"
+        ]
+    },
+    {
+        "tag": "help",
+        "patterns": [
+            "Can you help me?",
+            "I need help",
+            "Help me please",
+            "Can you assist me?"
+        ],
+        "responses": [
+            "Of course! How can I assist you with your health and well-being?",
+            "I’m here to help. What health-related assistance do you need?",
+            "I’m happy to help! What can I do for you?"
+        ]
+    },
+    {
+        "tag": "feedback",
+        "patterns": [
+            "How am I doing?",
+            "Can I give feedback?",
+            "I have feedback for you",
+            "Do you take feedback?"
+        ],
+        "responses": [
+            "I’d love to hear your feedback! Please let me know how I can improve.",
+            "I’m always open to feedback! Please share your thoughts.",
+            "Feedback is always welcome. What do you think about the health tips I’ve provided?"
+        ]
+    },
+    {
+        "tag": "contact",
+        "patterns": [
+            "How can I contact you?",
+            "Is there a way to reach you?",
+            "Can I talk to a human?",
+            "Can I send you a message?"
+        ],
+        "responses": [
+            "You can chat with me anytime here! If you need to talk to a healthcare professional, I can help you get in touch with one.",
+            "I'm always here to chat. For more serious health concerns, please consult with a healthcare provider."
+        ]
+    }
+]

@@ -1,0 +1,15 @@
+
+1. Python 
+Purpose: The purpose of Python in the chatbot is to process user input, match intents, generate responses, and provide an interactive web interface.
+Package: csv,datetime
+2. Streamlit
+Purpose: For creating the chatbot's web interface.
+Package: streamlit
+3. NLTK
+Purpose: For text processing, including tokenization, stopword removal, and lemmatization.
+4. Scikit-learn
+Purpose: For intent matching (using TF-IDF Vectorizer and cosine similarity).
+Package: scikit-learn
+5. Pandas
+Purpose: For managing structured data, if storing intents in CSV format.
+Package: pandas
